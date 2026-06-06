@@ -45,8 +45,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Naman8859&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman8859&layout=compact&theme=tokyonight)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Naman8859&color=blue)
 ---
 
 
